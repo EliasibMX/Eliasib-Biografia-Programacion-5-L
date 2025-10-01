@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+}
+
+body{
+    background-color: aqua;
+    text-align: center;
+}
+
+#back{
+    text-align: center;
+    margin: 3%;
+}
+
+a{
+    text-decoration: none;
+    background-color: orange;
+    padding: 7px 20px;
+    color: black;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+img{
+    width: 16dvw;
+    height: 22dvh;
+}
+
+#padres img{
+    margin: 0 10%;
+}
+
+div img{
+    margin: 10px;
+    border-radius: 15px;
+}
